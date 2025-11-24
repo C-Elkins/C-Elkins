@@ -122,17 +122,17 @@ const chase = {
 
 ---
 
-## 🐍 Contribution Snake
+## 🔥 Contribution Streak & Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+![](https://github-contributor-stats.vercel.app/api?username=C-Elkins&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 ---
 
