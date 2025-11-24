@@ -114,14 +114,6 @@ const chase = {
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C-Elkins&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🔥 Commit Activity
 
 <div align="center">
@@ -152,26 +144,48 @@ const chase = {
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((Chase's Focus))
-    Full Stack Development
-      React & Next.js
-      Node.js APIs
-      System Design
-    Cloud & DevOps
-      AWS Services
-      Docker
-      CI/CD Pipelines
-    Code Quality
-      Clean Code
-      Testing
-      Documentation
-    Learning
-      New Technologies
-      Best Practices
-      Architecture Patterns
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Full Stack Development
+- Building modern web apps with **React** & **Next.js**
+- Designing scalable **Node.js** APIs
+- Implementing **microservices** architecture
+- Creating responsive, accessible UIs
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Cloud & DevOps
+- Deploying on **AWS** infrastructure
+- Containerizing apps with **Docker**
+- Setting up **CI/CD** pipelines
+- Infrastructure as Code
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Code Quality
+- Writing **clean**, maintainable code
+- Building comprehensive **test suites**
+- Creating detailed **documentation**
+- Following best practices & patterns
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 Continuous Learning
+- Exploring **new technologies**
+- Mastering **design patterns**
+- Staying current with **industry trends**
+- Contributing to **open source**
+
+</td>
+</tr>
+</table>
 
 </div>
 
