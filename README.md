@@ -122,13 +122,15 @@ const chase = {
 
 ---
 
-## 🔥 Contribution Streak & Activity
+## 🔥 Commit Activity
 
 <div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=C-Elkins&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C-Elkins&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&custom_title=Commit%20Activity%20Graph" alt="Commit Activity Graph" />
 </div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
