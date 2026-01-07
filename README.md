@@ -2,7 +2,7 @@
   
 # 👋 Hey there, I'm Chase Elkins
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Code+Enthusiast+%E2%9C%A8;Problem+Solver+%F0%9F%92%A1;Building+Digital+Experiences+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Building+Scalable+Solutions;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -10,7 +10,7 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f. gif" width="100%">
 
 ## 💫 About Me
 
@@ -36,7 +36,7 @@ const chase = {
     },
     architecture: ["Microservices", "REST APIs", "GraphQL", "Event-Driven"],
     currentFocus: "Building scalable full-stack applications",
-    funFact: "I debug with console.log and I'm not ashamed"
+    funFact: "I debug with console. log and I'm not ashamed"
 };
 ```
 
@@ -59,7 +59,7 @@ const chase = {
 
 ### ⚙️ Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express. js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,11 +68,11 @@ const chase = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D? style=for-the-badge&logo=redis&logoColor=white)
 
 ### ☁️ DevOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED? style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
@@ -83,33 +83,92 @@ const chase = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f. gif" width="100%">
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C-Elkins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Elkins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9"/>
+  
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel. app/api?username=C-Elkins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&icon_color=6C63FF&rank_icon=github"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=C-Elkins&show_icons=true&theme=default&include_all_commits=true&count_private=true"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C-Elkins&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&icon_color=6C63FF&rank_icon=github" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Elkins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Elkins&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C-Elkins&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" alt="Top Languages" />
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C-Elkins&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak Stats" />
+  
+<picture>
+  <source 
+    srcset="https://streak-stats.demolab.com? user=C-Elkins&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://streak-stats.demolab.com?user=C-Elkins&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://streak-stats.demolab.com?user=C-Elkins&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak Stats" />
+</picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-Elkins&theme=tokyonight" alt="Profile Summary" />
+  
+<picture>
+  <source 
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? username=C-Elkins&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=C-Elkins&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details? username=C-Elkins&theme=tokyonight" alt="Profile Summary" />
+</picture>
+
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f. gif" width="100%">
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
+  
+<picture>
+  <source 
+    srcset="https://github-profile-trophy.vercel.app/? username=C-Elkins&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/? username=C-Elkins&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7"
+    media="(prefers-color-scheme: light)"
+  />
   <img src="https://github-profile-trophy.vercel.app/?username=C-Elkins&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</picture>
+
 </div>
 
 ---
@@ -117,7 +176,19 @@ const chase = {
 ## 🔥 Commit Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C-Elkins&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&custom_title=Commit%20Activity%20Graph" alt="Commit Activity Graph" />
+  
+<picture>
+  <source 
+    srcset="https://github-readme-activity-graph.vercel. app/graph?username=C-Elkins&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph"
+    media="(prefers-color-scheme:  dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph. vercel.app/graph?username=C-Elkins&theme=minimal&hide_border=true&custom_title=Contribution%20Graph"
+    media="(prefers-color-scheme: light)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=C-Elkins&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+</picture>
+
 </div>
 
 ---
@@ -125,16 +196,22 @@ const chase = {
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/C-Elkins/C-Elkins/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
 </div>
 
 ---
 
-## 💭 Dev Quote of the Day
+## 💭 Dev Quote
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it.&author=Alan%20Kay)](https://github.com/piyushsuthar/github-readme-quotes)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -204,7 +281,7 @@ const chase = {
 
 <div align="center">
   
-### 💬 Let's Build Something Amazing Together!
+### 💬 Let's Build Something Amazing Together! 
 
 *I'm always open to interesting projects, collaborations, and opportunities to create impactful solutions.*
 
